@@ -1,0 +1,30 @@
+60-Day Summer Placement Challenge
+Daily 4-Hour Target: 
+		Git & AI Tools: Build a strong developer portfolio.
+		LeetCode DSA: Solve 2 problems daily to sharp your coding logic.
+		Aptitude: Master the screening filters that companies use to filter candidates.  
+
+Doc link: https://docs.google.com/document/d/1VFJ6U01dnLZhL4VeILqlrzkkLYwLd5EymLzb-QcBex8/edit?usp=sharing
+
+Git repo link: https://tapasbadal.github.io/Placement-Preparation-Plan-Summer-/
+
+1-2 hours: Leetcode
+1-2 hours: Learn Tech/ AI Tools
+1-2 hours: Aptitude/Reasoning/Technical
+Minimum required for the next 200 Days
+
+
+
+
+
+27/5:
+Saturday assignment: Week 1 Finish Line!
+Lock in your LeetCode video submission and close out Week 1 strong.
+Pick: Any problem you successfully solved this week.
+Record: A quick 5–15 min video explaining your logic, code walkthrough, and time/space complexity.
+Upload: Post it on YouTube as Public or Unlisted.
+Submit: Drop your video link in the Google form this Saturday.
+Why this matters: Sharpens communication, clarifies logic, and builds real confidence.
+Action Mindset: Don’t overthink or wait for perfection. Just hit record and submit.
+Keep the discipline alive. Let's get it done this Saturday!
+Form is available on day 6 of above link.

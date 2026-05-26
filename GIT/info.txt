@@ -1,0 +1,100 @@
+Git is aa version control system. It is:
+  Popular
+  free and Open Source
+  fast & scalable
+
+Used for 2 main reasons:
+1. Track the history
+2. Collaborate
+
+
+Commit: Make changes
+
+Use <br> for next line in readme file.
+
+~ represents root directory
+
+git --version: Gives current version
+ls: lists all files and folders in current working directory
+clear: clears the git terminal
+pwd: current working directory location
+
+Configuring Git:
+git config --global user.name "My_name"
+git config --global user.email "mail@email.com"
+git config --list
+
+Clone: Clone a repo on our local machine
+git clone link
+
+Status: display the status of the code
+git status
+
+cd: change directory
+
+ls -a: To show hidden files
+For windows: ls -Force
+
+Types of changes:
+Untracked: new files that git doesn't track yet
+Modified: Changed
+Staged: File is ready to be committed
+Unmodified: Unchanged
+
+Changes -> Added to be Staged -> Committed
+
+Add: Adds new or changed files in your working directory to the Git staging area
+git add filename
+
+Commit: record of change
+git commit -m "some message"
+-m represents message
+
+git add .: adds all files
+
+Push: upload local repo content to remote repo
+git push origin main
+origin is the name used to represent the cloned repo
+main is the branch of this repo
+
+Init - used to create a new git repo
+git init
+git remote add origin link
+git remote -v (verifies remote)
+git branch (checks branch)
+git branch -M main (renames branch)
+git push origin main
+
+git push -u origin main
+-u sets upstream. Allows us to push directly using git push and no need to write origin main
+
+cd..: go to parent directory
+mkdir: create directory
+
+Workflow:
+  1. Git repo
+  2. Clone
+  3. Changes
+  4. Add
+  5. Commit
+  6. Push
+
+Git Branches:
+We merge the main/master and the feature branch.
+
+git branch (check branch)
+git branch -M main (rename branch)
+git checkout BranchName (navigate)
+git checkout -b NewBranchName (create new branch)
+git branch -d BranchName (delete branch)
+
+You need to switch to another branch before deleting it.
+
+Merging code:
+
+Way 1:
+git diff BranchName (compare commits, branches, files and more)
+git merge BranchName (merge 2 branches)
+
+Way 2:
+Create a PR
