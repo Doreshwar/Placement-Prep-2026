@@ -118,3 +118,6 @@ Case 2: Commited changes(one conflict)
 Case 3: Commited changes(multi conflict)
   git reset CommitHash
   git reset --hard CommitHash
+
+Fork: A new repo that shares code and visibility setting with the original upstream repo.
+It is a rough copy.
