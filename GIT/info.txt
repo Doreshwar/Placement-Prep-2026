@@ -98,3 +98,23 @@ git merge BranchName (merge 2 branches)
 
 Way 2:
 Create a PR
+
+Pull Request: It lets u tell others about changes you've pushed to a branch in a repo on GitHub.
+
+Pull command: used to fetch and download content from remote repo and update local repo to match it.
+git pull origin main
+
+Resolving Merge Conflicts:
+Accept Current Change - change in current file
+Accept Incoming Change - change from file which is being merged
+Accept Both Changes
+
+Undoing Changes:
+Case 1: Staged Changes
+  git reset filename
+  git reset
+Case 2: Commited changes(one conflict)
+  git reset HEAD~1
+Case 3: Commited changes(multi conflict)
+  git reset CommitHash
+  git reset --hard CommitHash
