@@ -121,3 +121,7 @@ Case 3: Commited changes(multi conflict)
 
 Fork: A new repo that shares code and visibility setting with the original upstream repo.
 It is a rough copy.
+
+
+Some other commands
+git commit -m "Message" -m "Description"
