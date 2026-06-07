@@ -1,6 +1,13 @@
-### Hi there
+### Hi there 👋, Aditya Raghav Soni
+#### I am a tech enthusiast, gamer and coder.
+I made this project for placement prepration.
 
-I'm Aditya from India. I am a gamer, a tech enthusiast and do a lot of other stuff. I really enjoy learning coding and fidgeting with my tech like changing low level registery details on my laptop.
-I also do UI/UX, Design, Video editing and Sales.
+Skills: C++/ HTML/ CSS/ JS/ AIML
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doreshwar)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on ROVO. 
+- 🌱 I’m currently learning WebDev and AI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Doreshwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adityaraghavsoni/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Doreshwar&show_icons=true)
